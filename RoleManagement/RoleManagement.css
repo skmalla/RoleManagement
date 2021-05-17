@@ -1,0 +1,19 @@
+.roleManagement {
+  box-shadow: 4px 4px 7px rgb(0 0 0 / 7%), -4px -4px 13px #fff,
+    6px 6px 36px rgb(0 0 0 / 6%);
+  margin-top: 15px;
+}
+
+.formFields {
+  padding: 0px 35px 0px 35px;
+}
+
+.mand {
+  color: red;
+}
+
+.displayfieldsAsGrid {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 10px;
+}
